@@ -1,0 +1,6 @@
+fastapi
+yt-dlp
+uvicorn
+gradio
+python-dotenv
+requests
